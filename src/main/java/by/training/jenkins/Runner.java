@@ -1,4 +1,4 @@
-package by.training.jenkins;
+﻿package by.training.jenkins;
 
 public class Runner {
     public static void main (String[] args){
